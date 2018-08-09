@@ -17,6 +17,8 @@
     - 清除当前行：`ctrl + u`
     - 到行首：`ctrl + a`
     - 到行尾：`ctrl + e`
+    - 删除到文本末尾：`ctrl + k`
+    - 删除光标之前的单词：`ctrl + w`
     - 清屏：`command + r`
 
 ## Git 常用命令
